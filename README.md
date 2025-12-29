@@ -1,6 +1,3 @@
-![Data Analytics]<h1 align="center">Mohammed Sobhy – Data Analyst</h1>
-
-
 <h1 align="center">Mohammed Sobhy</h1>
 
 <h3 align="center">
@@ -19,13 +16,13 @@ Data Analyst | Payroll Systems Specialist <br>
 
 ### 🇺🇸 English
 I'm a **Data Analyst** with **4+ years of hands-on experience** working as a **Payroll System Administrator**.  
-I have a strong background in **data analysis, reporting, and business insights**, especially within **government and healthcare environments**.
+I specialize in **data analysis, reporting, and dashboard development**, particularly within **government and healthcare environments**.
 
-I create educational content on YouTube under the name **"تعلم ببساطة"**, where I simplify complex technical topics and make them easy to understand for beginners and professionals alike.
+I also create educational content on YouTube under the name **"تعلم ببساطة"**, where I simplify data analysis concepts and technical tools to make them practical and easy to understand.
 
 ### 🇪🇬 عربي
-أنا **محمد صبحي**، محلل بيانات بخبرة أكتر من **4 سنين** في العمل على **منظومة البيرول (Payroll)** كمسؤول مباشر عنها.  
-بقدم محتوى تعليمي على يوتيوب من خلال قناة **تعلم ببساطة**، بشرح فيها تحليل البيانات وExcel وPower BI بأسلوب بسيط وعملي.
+أنا **محمد صبحي**، محلل بيانات بخبرة أكتر من **4 سنوات** في العمل على **منظومة البيرول (Payroll)** كمسؤول مباشر عنها.  
+بقدم محتوى تعليمي على يوتيوب من خلال قناة **تعلم ببساطة**، بشرح فيها تحليل البيانات وExcel وPower BI بأسلوب بسيط وعملي مبني على سيناريوهات حقيقية.
 
 ---
 
@@ -39,51 +36,51 @@ I create educational content on YouTube under the name **"تعلم ببساطة"
 
 ## 🛠️ Technical Skills | المهارات التقنية
 
-- **Data Analysis:** Excel, Power BI, SQL
-- **Programming:** Python
-- **Databases:** SQL Server
-- **Payroll Systems:** Salaries, Deductions, Reports
-- **Statistics:** Descriptive & Applied Statistics
-- **Tools:** Power Query, DAX, Data Cleaning, Reporting
+- **Data Analysis:** Excel, Power BI, SQL  
+- **Programming:** Python  
+- **Databases:** SQL Server  
+- **Payroll Systems:** Salaries, Deductions, Reports  
+- **Statistics:** Descriptive & Applied Statistics  
+- **Tools & Techniques:** Power Query, DAX, Data Cleaning, Reporting  
 
 ---
 
 ## 💼 Professional Experience | الخبرة العملية
 
-- **Payroll System Administrator**
-  - Managing salary data & payroll cycles
-  - Building reports and dashboards
-  - Data accuracy & validation
-  - Supporting decision-makers with insights
+### Payroll System Administrator
+- Managing payroll cycles and salary data  
+- Preparing financial and administrative reports  
+- Ensuring data accuracy and validation  
+- Supporting management with data-driven insights  
 
-- **Data Analyst**
-  - Data cleaning & transformation
-  - Dashboard design (Power BI)
-  - KPI tracking & analysis
-  - Business-oriented insights
+### Data Analyst
+- Data cleaning and transformation  
+- Designing interactive dashboards using Power BI  
+- KPI tracking and performance analysis  
+- Delivering business-focused insights  
 
 ---
 
 ## 📂 Projects | المشاريع
-> (سيتم إضافة المشاريع تباعًا)
+> (Projects will be added gradually)
 
-- 📊 HR Data Analysis
-- 💰 Payroll Analysis Dashboards
-- 📈 Excel Automation & Reporting
-- 🔍 Data Cleaning & Insights Projects
+- 📊 HR Data Analysis  
+- 💰 Payroll Analysis Dashboards  
+- 📈 Excel Automation & Reporting  
+- 🔍 Data Cleaning & Insights Projects  
 
 ---
 
 ## 🎥 YouTube Channel | قناة اليوتيوب
 
 📌 **تعلم ببساطة | Learn Simply**  
-محتوى تعليمي مبسط في:
+Educational content focused on:
 - Excel
 - Power BI
 - Data Analysis
-- Practical Business Scenarios
+- Practical business scenarios
 
-👉 Subscribe & Learn:
+👉 Subscribe here:  
 🔗 https://www.youtube.com/@Mohammed_sobhy-b7z
 
 ---
@@ -113,8 +110,8 @@ I create educational content on YouTube under the name **"تعلم ببساطة"
 ## 🚀 Career Goal | الهدف المهني
 
 - 🔍 Secure a **Data Analyst role**
-- 📊 Build strong, real-world data projects
-- 🧠 Share knowledge & simplify learning
+- 📊 Build strong, real-world data analysis projects
+- 🧠 Share knowledge and simplify learning
 - 🌱 Grow a strong **personal brand** in data analytics
 
 ---
