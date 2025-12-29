@@ -11,10 +11,6 @@ Data Analyst | Payroll Systems Specialist <br>
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammed-Sobhy&theme=default" />
-</p>
-
 
 ## 👋 About Me
 
@@ -114,5 +110,9 @@ Educational content focused on:
 - 🌱 Grow a strong **personal brand** in data analytics
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohammed-Sobhy&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 
 ⭐ *If you find my work useful, feel free to star my repositories and connect with me!*
