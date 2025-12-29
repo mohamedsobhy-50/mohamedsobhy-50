@@ -2,31 +2,25 @@
 
 <h3 align="center">
 Data Analyst | Payroll Systems Specialist <br>
-محلل بيانات | متخصص أنظمة المرتبات
 </h3>
 
 <p align="center">
 🎥 Content Creator on YouTube – <strong>تعلم ببساطة | Learn Simply</strong><br>
-📊 Simplifying Data Analysis, Excel & Power BI
+📊 Data Analysis, Excel & Power BI
 </p>
 
 ---
 
-## 👋 About Me | نبذة عني
+## 👋 About Me
 
-### 🇺🇸 English
 I'm a **Data Analyst** with **4+ years of hands-on experience** working as a **Payroll System Administrator**.  
 I specialize in **data analysis, reporting, and dashboard development**, particularly within **government and healthcare environments**.
 
 I also create educational content on YouTube under the name **"تعلم ببساطة"**, where I simplify data analysis concepts and technical tools to make them practical and easy to understand.
 
-### 🇪🇬 عربي
-أنا **محمد صبحي**، محلل بيانات بخبرة أكتر من **4 سنوات** في العمل على **منظومة البيرول (Payroll)** كمسؤول مباشر عنها.  
-بقدم محتوى تعليمي على يوتيوب من خلال قناة **تعلم ببساطة**، بشرح فيها تحليل البيانات وExcel وPower BI بأسلوب بسيط وعملي مبني على سيناريوهات حقيقية.
-
 ---
 
-## 🎓 Education | التعليم
+## 🎓 Education 
 
 - 🎓 **Bachelor of Health Sciences**
 - 📊 Specialization: **Statistics & Data Analysis**
@@ -34,7 +28,7 @@ I also create educational content on YouTube under the name **"تعلم ببسا
 
 ---
 
-## 🛠️ Technical Skills | المهارات التقنية
+## 🛠️ Technical Skills 
 
 - **Data Analysis:** Excel, Power BI, SQL  
 - **Programming:** Python  
@@ -45,7 +39,7 @@ I also create educational content on YouTube under the name **"تعلم ببسا
 
 ---
 
-## 💼 Professional Experience | الخبرة العملية
+## 💼 Professional Experience  
 
 ### Payroll System Administrator
 - Managing payroll cycles and salary data  
@@ -61,7 +55,7 @@ I also create educational content on YouTube under the name **"تعلم ببسا
 
 ---
 
-## 📂 Projects | المشاريع
+## 📂 Projects | 
 > (Projects will be added gradually)
 
 - 📊 HR Data Analysis  
@@ -71,7 +65,7 @@ I also create educational content on YouTube under the name **"تعلم ببسا
 
 ---
 
-## 🎥 YouTube Channel | قناة اليوتيوب
+## 🎥 YouTube Channel  
 
 📌 **تعلم ببساطة | Learn Simply**  
 Educational content focused on:
@@ -85,7 +79,7 @@ Educational content focused on:
 
 ---
 
-## 🌐 Connect With Me | تواصل معي
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://www.youtube.com/@Mohammed_sobhy-b7z">
@@ -107,7 +101,7 @@ Educational content focused on:
 
 ---
 
-## 🚀 Career Goal | الهدف المهني
+## 🚀 Career Goal 
 
 - 🔍 Secure a **Data Analyst role**
 - 📊 Build strong, real-world data analysis projects
