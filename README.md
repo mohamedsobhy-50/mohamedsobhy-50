@@ -1,8 +1,4 @@
 <h1 align="center">Hello I'am Mohammed Sobhy</h1>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammed-Sobhy&theme=default" />
-</p>
-
 
 
 <h3 align="center">
@@ -15,6 +11,9 @@ Data Analyst | Payroll Systems Specialist <br>
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammed-Sobhy&theme=default" />
+</p>
 
 
 ## 👋 About Me
