@@ -1,13 +1,8 @@
 <h1 align="center">Hello I'am Mohammed Sobhy</h1>
-<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohammed-Sobhy&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammed-Sobhy&theme=default" />
 </p>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Sobhy&show_icons=true" />
-</p>
 
 
 <h3 align="center">
