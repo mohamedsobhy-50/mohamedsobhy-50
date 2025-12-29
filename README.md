@@ -1,4 +1,5 @@
-![Data Analytics](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
+![Data Analytics]<h1 align="center">Mohammed Sobhy – Data Analyst</h1>
+
 
 <h1 align="center">Mohammed Sobhy</h1>
 
