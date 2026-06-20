@@ -68,7 +68,7 @@ I also create educational content on YouTube under the name **"تعلم ببسا
 
 ## 🎥 YouTube Channel  
 
-📌 **تعلم ببساطة | Learn Simply**  
+ Learn Simply**
 Educational content focused on:
 - Excel
 - Power BI
