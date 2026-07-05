@@ -14,10 +14,8 @@ Data Analyst | Payroll Systems Specialist <br>
 
 ## 👋 About Me
 
-I'm a **Data Analyst** with **4+ years of hands-on experience** working as a **Payroll System Administrator**.  
-I specialize in **data analysis, reporting, and dashboard development**, particularly within **government and healthcare environments**.
+Hi, I'm Mohamed Alkazaz, a Data Analyst passionate about turning complex data into clear, actionable insights. With 4+ years of experience working with healthcare and payroll data, I've completed 15+ real-world data analytics projects using Excel, SQL, Power BI, and Python. Driven by my passion for continuous learning, I joined the Digilians Initiative, a training program in collaboration with Egypt's Ministry of Communications and Information Technology (MCIT) and the Ministry of Defense, where I continue to strengthen my analytical skills through hands-on projects. I also enjoy sharing my knowledge through educational content because I believe data becomes more valuable when it's simple and easy to understand.
 
-I also create educational content on YouTube under the name **"تعلم ببساطة"**, where I simplify data analysis concepts and technical tools to make them practical and easy to understand.
 
 ---
 
