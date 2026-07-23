@@ -1,66 +1,51 @@
-<h1 align="center">Hi 👋, I'm Mohammed El Kazaz</h1>
-
-<h3 align="center">
-Data Analyst | Power BI Developer | SQL | Python
-</h3>
+<h1 align="center">Mohammed El Kazaz</h1>
 
 <p align="center">
-Turning raw data into meaningful insights 📊
+  <strong>Data Analyst | Power BI | SQL | Python</strong>
 </p>
 
 <p align="center">
-<a href="https://lovable.dev/projects/4075726f-de73-4e22-9f1a-fb1c4b43581f">🌐 Portfolio</a> •
-<a href="https://www.linkedin.com/in/mohammed-el-kazaz/">LinkedIn</a> •
-<a href="https://github.com/mohamedsobhy-50">GitHub</a> •
-<a href="mailto:mohamedsophy56665@gmail.com">Email</a>
+Turning data into actionable business insights.
+</p>
+
+<p align="center">
+  <a href="https://lovable.dev/projects/4075726f-de73-4e22-9f1a-fb1c4b43581f">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/mohammed-el-kazaz/">LinkedIn</a> •
+  <a href="mailto:mohamedsophy56665@gmail.com">Email</a> •
+  <a href="https://www.youtube.com/@Mohammed_sobhy-b7z">YouTube</a>
 </p>
 
 ---
 
-# 👋 About Me
+## About Me
 
-I'm **Mohammed El Kazaz**, a passionate **Data Analyst** with over **4 years of experience** working with payroll and financial data in the healthcare sector.
+I'm **Mohammed El Kazaz**, a Data Analyst with over **4 years of experience** working with payroll and financial data in the healthcare sector.
 
-My journey into Data Analytics started with a passion for solving business problems through data. Since then, I've built **15+ real-world analytics projects** using **Power BI, SQL, Excel, and Python**, focusing on transforming raw data into actionable insights.
+I specialize in transforming raw data into meaningful insights through **Power BI, SQL, Python, and Excel**. Alongside my professional experience, I've completed **15+ real-world data analytics projects** covering sales, HR, finance, and business intelligence.
 
-Currently, I'm enrolled in the **Digilians Initiative**, a professional training program in collaboration with Egypt's **Ministry of Communications and Information Technology (MCIT)**, where I'm expanding my expertise in **Data Analytics, Machine Learning, and Agentic AI**.
-
-I also enjoy simplifying technical concepts by creating educational content on YouTube.
+Currently, I'm a trainee in the **Digilians Initiative**, where I'm expanding my knowledge in **Data Analytics, Machine Learning, and Agentic AI** through hands-on projects and continuous learning.
 
 ---
 
-# 🚀 What I Do
+## Technical Skills
 
-✔ Data Cleaning & Transformation
+### Data Analytics
 
-✔ Dashboard Development
+- Data Analysis
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Intelligence
 
-✔ Business Intelligence
-
-✔ Financial & Payroll Analytics
-
-✔ Data Modeling
-
-✔ DAX & Power Query
-
-✔ SQL Reporting
-
-✔ Python Automation
-
-✔ Data Storytelling
-
----
-
-# 🛠 Tech Stack
-
-### 📊 Analytics
+### Tools
 
 - Power BI
 - Excel
 - SQL Server
+- MySQL
 - Python
 
-### 📈 Power BI
+### Power BI
 
 - DAX
 - Power Query
@@ -68,47 +53,30 @@ I also enjoy simplifying technical concepts by creating educational content on Y
 - Star Schema
 - KPI Design
 
-### 🐍 Python
+### Python
 
 - Pandas
 - NumPy
 - Web Scraping
-- Data Cleaning
-
-### 💾 Databases
-
-- SQL Server
-- MySQL
-
-### 📌 Other
-
-- Statistics
-- Business Intelligence
-- Financial Analysis
-- Payroll Systems
 
 ---
 
-# 💼 Experience
+## Professional Experience
 
-## Payroll Manager
+### Payroll Manager
 
 **Ministry of Health & Population**
 
-- Managing payroll for more than **2,000 employees**
-- Building payroll databases from scratch
-- Oracle Payroll System
-- Financial Reporting
-- Data Validation
-- Process Automation
+- Managing payroll for more than 2,000 employees.
+- Building and maintaining payroll databases.
+- Financial reporting and payroll validation.
+- Oracle Payroll System.
 
----
-
-## Data Analytics Trainee
+### Data Analytics Trainee
 
 **Digilians Initiative (MCIT)**
 
-Hands-on training covering:
+Hands-on experience in:
 
 - Data Analytics
 - Machine Learning
@@ -119,124 +87,94 @@ Hands-on training covering:
 
 ---
 
-# 📂 Featured Projects
+## Certifications
 
-📊 AdventureWorks Executive Dashboard
-
-📈 Walmart Sales Dashboard
-
-☕ Coffee Sales Dashboard
-
-👥 HR Analytics Dashboard
-
-💰 Financial Transactions Dashboard
-
-🌐 Automated Web Scraping
-
-👉 More projects are available in my repositories.
+- Microsoft PL-300: Power BI Data Analyst *(Coursera)*
+- Google Data Analytics Professional Certificate *(Coursera)*
 
 ---
 
-# 🏆 Certifications
+## Featured Projects
 
-🎓 Microsoft PL-300: Power BI Data Analyst (Coursera)
+| Project | Description |
+|---------|-------------|
+| AdventureWorks Executive Dashboard | Executive dashboard with advanced DAX and KPIs |
+| Walmart Sales Dashboard | Sales performance analysis using Power BI |
+| Financial Transactions Dashboard | Banking analytics and financial reporting |
+| HR Analytics Dashboard | HR KPIs, attendance and workforce insights |
+| Coffee Sales Dashboard | Sales trends and customer insights |
+| Data Analyst Jobs Web Scraper | Python web scraping project |
 
-🎓 Google Data Analytics Professional Certificate (Coursera)
-
-*(In Progress)*
+> Explore all repositories from my GitHub profile.
 
 ---
 
-# 📺 Content Creator
+## Portfolio
 
-I enjoy sharing knowledge through my YouTube channel:
+You can explore all my projects and work here:
 
-### 🎥 Learn Simply | تعلم ببساطة
+**Portfolio Website**
 
-Topics include:
+https://lovable.dev/projects/4075726f-de73-4e22-9f1a-fb1c4b43581f
 
-- Data Analysis
-- Excel
-- SQL
+---
+
+## Content Creation
+
+I enjoy sharing knowledge through my YouTube channel, where I publish practical content about:
+
 - Power BI
+- SQL
 - Python
+- Excel
+- Data Analysis
 - Career Tips
 
-📺 https://www.youtube.com/@Mohammed_sobhy-b7z
+YouTube:
+https://www.youtube.com/@Mohammed_sobhy-b7z
 
 ---
 
-# 🌐 Portfolio
+## Connect With Me
 
-Explore all my projects here:
-
-🌍 https://lovable.dev/projects/4075726f-de73-4e22-9f1a-fb1c4b43581f
-
----
-
-# 📫 Connect with Me
-
-<p align="center">
-
+<p align="left">
 <a href="https://www.linkedin.com/in/mohammed-el-kazaz/">
-<img src="https://img.icons8.com/color/40/linkedin.png"/>
-</a>
-
-<a href="https://github.com/mohamedsobhy-50">
-<img src="https://img.icons8.com/ios-glyphs/40/github.png"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mohamedsophy56665@gmail.com">
-<img src="https://img.icons8.com/color/40/gmail-new.png"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://wa.me/201006922568">
-<img src="https://img.icons8.com/color/40/whatsapp.png"/>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 <a href="https://www.youtube.com/@Mohammed_sobhy-b7z">
-<img src="https://img.icons8.com/color/40/youtube-play.png"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-# 🎯 2026 Goals
-
-- 🚀 Become a Professional Data Analyst
-- 📊 Build impactful Business Intelligence solutions
-- 🤖 Learn Machine Learning & Agentic AI
-- 💼 Start a successful Freelancing career
-- 🎥 Grow "Learn Simply" into a valuable educational platform
-- 🌍 Contribute to open-source data projects
-
----
+## GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedsobhy-50&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedsobhy-50&show_icons=true&theme=transparent&hide_border=true"/>
 
-<br>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsobhy-50&layout=compact&theme=transparent&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedsobhy-50&theme=tokyonight"/>
+</p>
 
-<br>
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsobhy-50&layout=compact&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=mohamedsobhy-50&theme=transparent&hide_border=true"/>
 
 </p>
 
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mohamedsobhy-50&label=Profile%20Views&color=0487D9&style=for-the-badge"/>
-
+<img src="https://komarev.com/ghpvc/?username=mohamedsobhy-50&style=for-the-badge"/>
 </p>
-
----
-
-<h3 align="center">
-⭐ If you like my work, don't forget to star my repositories and connect with me!
-</h3>
