@@ -21,7 +21,7 @@ Turning data into actionable business insights.
 
 I'm **Mohammed El Kazaz**, a Data Analyst with over **4 years of experience** working with payroll and financial data in the healthcare sector.
 
-I specialize in transforming raw data into meaningful insights through **Power BI, SQL, Python, and Excel**. Alongside my professional experience, I've completed **15+ real-world data analytics projects** covering sales, HR, finance, and business intelligence.
+I specialize in transforming raw data into meaningful insights through **Power BI, SQL, Python, and Excel**. Alongside my professional experience, I've completed **20+ real-world data analytics projects** covering sales, HR, finance, and business intelligence.
 
 Currently, I'm a trainee in the **Digilians Initiative**, where I'm expanding my knowledge in **Data Analytics, Machine Learning, and Agentic AI** through hands-on projects and continuous learning.
 
