@@ -1,4 +1,4 @@
-<h1 align="center">Mohammed El Kazaz</h1>
+<h1 align="center">Mohamed Alkazaz</h1>
 
 <p align="center">
   <strong>Data Analyst | Power BI | SQL | Python</strong>
